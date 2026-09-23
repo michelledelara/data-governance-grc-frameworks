@@ -1,7 +1,7 @@
 # 📊 DAMA-DMBOK, COBIT 2019 e GRC
 
 > Estudo sobre a integração entre Governança de Dados, Governança de TI e GRC, utilizando DAMA-DMBOK, COBIT 2019 e OCEG Red Book como referenciais complementares.
-
+* Autora: Michelle de Lara Ferraz Silveira Almeida
 ---
 
 ## 🎯 Sobre o Projeto
